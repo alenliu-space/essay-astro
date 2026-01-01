@@ -1,5 +1,5 @@
 ---
-title: Markdown 扩展手册
+title: Markdown 扩展手册（官网文档，以备不时之需）
 timestamp: 2025-11-24 00:00:00+00:00
 series: Astro
 tags: [Markup, Demo]

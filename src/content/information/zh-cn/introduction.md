@@ -1,7 +1,19 @@
-**ThoughtLite** 是一款专注内容创作的现代化 [Astro](https://astro.build/) 主题。
 
-主题聚焦于内容相关的核心功能，旨在构建一个**高效、通透**的创作空间。
+Hi 你好，这是[Alen](https://alenliu.space/)
 
-同时，主题还支持**多语言切换**、**响应式布局**、**动态内容筛选**等现代特性，为用户带来流畅的使用体验。
+这是我的第二个博客，或者说是我的文集会更加合适
 
-如果您对主题有所兴趣，欢迎访问 [**GitHub 仓库**](https://github.com/tuyuritio/astro-theme-thought-lite)，了解更多信息并快速上手。
+心境变迁，很多时候的文字都和之前的[Blog](https://blog.alenliu.space/)装修风格显得格格不入，所以我在26年1月1日，搭建了这个文集
+
+之后会在这边写下更多的中长文字
+
+*对于摄影的部分，我也会在这里放上最满意的照片，其余的会放在[Gallery](https://gallery.alenliu.space/)中，以作纪念*
+
+*对于随心记的部分，我会在[Ech0](https://ech0.alenliu.space/)中落墨*
+
+
+
+	由于先前的[Blog]搭载了我许多回忆，所以我依旧会保留&更新。但重心还是会慢慢迁到这边
+
+
+祝武运昌盛

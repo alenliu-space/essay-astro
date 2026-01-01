@@ -1,7 +1,16 @@
-**ThoughtLite** is a modern [Astro](https://astro.build/) theme focused on content creation.
+Hi, this is [Alen](https://alenliu.space/).
 
-The theme focuses on core content-related functions, aiming to build an **efficient and transparent** space for creation.
+This is my second blog, or perhaps it would be more accurate to call it my collection of writings.
 
-Additionally, the theme supports modern features such as **multilingual switching**, **responsive layout**, and **dynamic content filtering**, providing users with a smooth experience.
+My state of mind has changed, and much of my writing no longer fits the style of my previous [Blog](https://blog.alenliu.space/).  Therefore, on January 1st, 2026, I created this collection of writings.
 
-If you are interested in the theme, please visit the [**GitHub repository**](https://github.com/tuyuritio/astro-theme-thought-lite) for more information and quick start guide.
+I will be writing more medium-to-long form pieces here.
+
+*Regarding photography, I will post my favorite photos here; the rest will be in the [Gallery](https://gallery.alenliu.space/) for safekeeping.*
+
+*For my casual notes, I will be writing them in [Ech0](https://ech0.alenliu.space/).*
+
+	Since my previous [Blog] holds many memories for me, I will still keep and update it. However, the focus will gradually shift to this new site.
+
+
+Wishing you all the best!

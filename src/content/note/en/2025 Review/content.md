@@ -1,6 +1,6 @@
 ---
 title: 2025 Year-End Summary
-timestamp: 2025-12-31 23:59:59+08:00
+timestamp: 2025-12-31 23:59:59
 series: 🗻
 tags:
   - Summary

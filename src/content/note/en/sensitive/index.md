@@ -6,4 +6,4 @@ description: This is an example document demonstrating sensitive content warning
 sensitive: true
 ---
 
-![「じぃーー・・・」（PixivID: 73284156）](pid_73284156_0.png)
+![「じぃーー・・・」](pid_73284156_0.png)

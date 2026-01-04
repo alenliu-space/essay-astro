@@ -117,7 +117,7 @@ pnpm install
 - `preface` - 序文，作为第一印象在站点首页展示
 - `information` - 信息，包含各类说明性内容
 
-详情请参阅[内容创作指南](src/content/note/zh-cn/content.md)。
+详情请参阅[内容创作指南](essay.alenliu.space/src/content/note/zh-cn/2025年终总结/content.md)。
 
 ## 🤝 贡献
 

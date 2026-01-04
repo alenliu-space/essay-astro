@@ -117,7 +117,7 @@ Content creation is centralized in the `src/content` directory, mainly including
 - `preface` - Displayed on the homepage as the first impression
 - `information` - Containing various descriptive content
 
-For details, refer to the [Content Creation Guide](src/content/note/en/content.md).
+For details, refer to the [Content Creation Guide](essay.alenliu.space/src/content/note/en/2025%20Review/content.md).
 
 ## 🤝 Contributing
 

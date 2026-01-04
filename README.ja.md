@@ -117,7 +117,7 @@ pnpm install
 - `preface` - 序文、第一印象としてサイトのホームページに表示
 - `information` - 情報、各種説明的なコンテンツを含む
 
-詳細は[コンテンツ作成ガイド](src/content/note/ja/content.md)を参照してください。
+詳細は[コンテンツ作成ガイド](essay.alenliu.space/src/content/note/ja/2025年の年末総括/content.md)を参照してください。
 
 ## 🤝 貢献
 
